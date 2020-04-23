@@ -8,6 +8,7 @@ Projet n°8 : "Déployez un modèle dans le cloud"
 * Configuration d'une instance AWS EC2 (OS Ubuntu Server 18.04)
 * Réalisation de scripts pyspark et exécution dans le cloud
 * Lecture et enregistrement de données sur Amazon S3
+* Appel à la librairie MLLib pour approche Transfer Learning du prétraitement
 
 Source des données : https://www.kaggle.com/moltean/fruits
 
